@@ -1,0 +1,53 @@
+header { 
+
+    position: static;
+    margin-right: 50px;
+    margin-top: -50px;
+    border-left: 50px;
+    margin-left: 50px;
+    
+
+}
+        
+                     
+     #container {
+       width: auto;
+        height: auto;
+      
+
+     }
+ 
+    
+    
+
+
+body  {
+
+    background: #451fc5;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-align: center;
+    
+}
+
+.anuncio1 { 
+
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   
+
+}
+
+.pepage {
+
+    width: 100%;
+        justify-content: space-between;
+    }
+
+
+
+
+
+    
